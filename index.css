@@ -42,3 +42,15 @@ nav ul li a{
 a:hover{
     background-color: black;
 }
+span{
+    background-color: #c4c4c4;
+    border: 2px solid black;
+    width: 200px;
+    
+}
+.content{
+    padding: 15px;
+    margin: left 300px;
+    font-size: 17px;
+    text-align: center;
+}
